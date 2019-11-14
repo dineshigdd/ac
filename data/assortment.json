@@ -479,6 +479,22 @@
     "image": "assets/img/items/NSD5PCB.JPG",
     "description": "<P>    Step drills are the most convenient way to drill multiple sized holes in thin sections of metal, plastic and wood using a single drill bit. Each bit does the work of many drill bit sizes and with a step bit there is no center punching or pilot hole drilling required.</P> <p> They feature tri-flat shanks for a sure grip and two flutes that automatically deburr as you drill. This set comes in a nice aluminum case with our Viper logo on the top.</P>"
   },
+    {
+      "class": "1",
+      "category": "Viper Products",
+      "item_no": "AC01",
+      "item": "ANNULAR CUTTER SET- VIPER - 1\" DEPTH 7 PIECE",
+      "image": "assets/img/items/AC01.jpeg",
+      "description": "<P>These annular cutters feature precision-ground flutes to provide efficient chip clearance, increased drilling productivity and decreased breakage. They are constructed of heat treated high-speed steel and include a pilot bit all in a molded carrying case.</P><P>They are engineered with a tapered inner wall for smooth, easy slug ejection. The center hole for pilot pin accurately aligns the cutter, allows for internal lubrication and removes the slug. Perfect drilling to close tolerances without runout; the result is a burr-free finished hole.</P><br><b>Specifications:</b><li>Sizes: 9/16\", 5/8\", 11/16\", 13/16\", 15/16\" & 1-1/16\"</li><li>1\" DOC (Depth of Cut)</li><li>Includes Pilot Pin</li>"
+    },
+    {
+      "class": "1",
+      "category": "Viper Products",
+      "item_no": "AC02",
+      "item": "ANNULAR CUTTER SET- VIPER - 2\" DEPTH 7 PIECE",
+      "image": "assets/img/items/AC02.jpeg",
+      "description": "<P>These annular cutters feature precision-ground flutes to provide efficient chip clearance, increased drilling productivity and decreased breakage. They are constructed of heat treated high-speed steel and include a pilot bit all in a molded carrying case.</P><P>They are engineered with a tapered inner wall for smooth, easy slug ejection. The center hole for pilot pin accurately aligns the cutter, allows for internal lubrication and removes the slug. Perfect drilling to close tolerances without runout; the result is a burr-free finished hole.</P><br><b>Specifications:</b><li>Sizes: 9/16\", 11/16\", 13/16\", 15/16\", 1\" & 1-1/16\"</li><li>2\" DOC (Depth of Cut)</li><li>Includes Pilot Pin</li>"
+    },
   {
     "class": "1",
     "category": "Viper Products",
@@ -11910,6 +11926,22 @@
     "item": "STEP DRILL SET - 5PC SAE BLK/GOLD",
     "image": "assets/img/items/NSD5PCB.JPG",
     "description": "<P>    Step drills are the most convenient way to drill multiple sized holes in thin sections of metal, plastic and wood using a single drill bit. Each bit does the work of many drill bit sizes and with a step bit there is no center punching or pilot hole drilling required.</P> <p> They feature tri-flat shanks for a sure grip and two flutes that automatically deburr as you drill. This set comes in a nice aluminum case with our Viper logo on the top.</P>"
+  },
+    {
+    "class": "16",
+    "category": "Drill Bits/ Index Sets/ Extractor Tools",
+    "item_no": "AC01",
+    "item": "ANNULAR CUTTER SET- VIPER - 1\"",
+    "image": "assets/img/items/AC01.jpeg",
+    "description": "<P>These annular cutters feature precision-ground flutes to provide efficient chip clearance, increased drilling productivity and decreased breakage. They are constructed of heat treated high-speed steel and include a pilot bit all in a molded carrying case.</P><P>They are engineered with a tapered inner wall for smooth, easy slug ejection. The center hole for pilot pin accurately aligns the cutter, allows for internal lubrication and removes the slug. Perfect drilling to close tolerances without runout; the result is a burr-free finished hole.</P><br><b>Specifications:</b><li>Sizes: 9/16\", 5/8\", 11/16\", 13/16\", 15/16\" & 1-1/16\"</li><li>1\" DOC (Depth of Cut)</li><li>Includes Pilot Pin</li>"
+  },
+  {
+    "class": "16",
+    "category": "Drill Bits/ Index Sets/ Extractor Tools",
+    "item_no": "AC02",
+    "item": "ANNULAR CUTTER SET- VIPER - 2\" DEPTH 7 PIECE",
+    "image": "assets/img/items/AC02.jpeg",
+    "description": "<P>These annular cutters feature precision-ground flutes to provide efficient chip clearance, increased drilling productivity and decreased breakage. They are constructed of heat treated high-speed steel and include a pilot bit all in a molded carrying case.</P><P>They are engineered with a tapered inner wall for smooth, easy slug ejection. The center hole for pilot pin accurately aligns the cutter, allows for internal lubrication and removes the slug. Perfect drilling to close tolerances without runout; the result is a burr-free finished hole.</P><br><b>Specifications:</b><li>Sizes: 9/16\", 11/16\", 13/16\", 15/16\", 1\" & 1-1/16\"</li><li>2\" DOC (Depth of Cut)</li><li>Includes Pilot Pin</li>"
   },
   {
     "class": "17",
