@@ -479,22 +479,22 @@
     "image": "assets/img/items/NSD5PCB.JPG",
     "description": "<P>    Step drills are the most convenient way to drill multiple sized holes in thin sections of metal, plastic and wood using a single drill bit. Each bit does the work of many drill bit sizes and with a step bit there is no center punching or pilot hole drilling required.</P> <p> They feature tri-flat shanks for a sure grip and two flutes that automatically deburr as you drill. This set comes in a nice aluminum case with our Viper logo on the top.</P>"
   },
-    {
-      "class": "1",
-      "category": "Viper Products",
-      "item_no": "AC01",
-      "item": "ANNULAR CUTTER SET- VIPER - 1\" DEPTH 7 PIECE",
-      "image": "assets/img/items/AC01.jpeg",
-      "description": "<P>These annular cutters feature precision-ground flutes to provide efficient chip clearance, increased drilling productivity and decreased breakage. They are constructed of heat treated high-speed steel and include a pilot bit all in a molded carrying case.</P><P>They are engineered with a tapered inner wall for smooth, easy slug ejection. The center hole for pilot pin accurately aligns the cutter, allows for internal lubrication and removes the slug. Perfect drilling to close tolerances without runout; the result is a burr-free finished hole.</P><br><b>Specifications:</b><li>Sizes: 9/16\", 5/8\", 11/16\", 13/16\", 15/16\" & 1-1/16\"</li><li>1\" DOC (Depth of Cut)</li><li>Includes Pilot Pin</li>"
-    },
-    {
-      "class": "1",
-      "category": "Viper Products",
-      "item_no": "AC02",
-      "item": "ANNULAR CUTTER SET- VIPER - 2\" DEPTH 7 PIECE",
-      "image": "assets/img/items/AC02.jpeg",
-      "description": "<P>These annular cutters feature precision-ground flutes to provide efficient chip clearance, increased drilling productivity and decreased breakage. They are constructed of heat treated high-speed steel and include a pilot bit all in a molded carrying case.</P><P>They are engineered with a tapered inner wall for smooth, easy slug ejection. The center hole for pilot pin accurately aligns the cutter, allows for internal lubrication and removes the slug. Perfect drilling to close tolerances without runout; the result is a burr-free finished hole.</P><br><b>Specifications:</b><li>Sizes: 9/16\", 11/16\", 13/16\", 15/16\", 1\" & 1-1/16\"</li><li>2\" DOC (Depth of Cut)</li><li>Includes Pilot Pin</li>"
-    },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "AC01",
+    "item": "ANNULAR CUTTER SET- VIPER - 1\" DEPTH 7 PIECE",
+    "image": "assets/img/items/AC01.jpeg",
+    "description": "<P>These annular cutters feature precision-ground flutes to provide efficient chip clearance, increased drilling productivity and decreased breakage. They are constructed of heat treated high-speed steel and include a pilot bit all in a molded carrying case.</P><P>They are engineered with a tapered inner wall for smooth, easy slug ejection. The center hole for pilot pin accurately aligns the cutter, allows for internal lubrication and removes the slug. Perfect drilling to close tolerances without runout; the result is a burr-free finished hole.</P><br><b>Specifications:</b><li>Sizes: 9/16\", 5/8\", 11/16\", 13/16\", 15/16\" & 1-1/16\"</li><li>1\" DOC (Depth of Cut)</li><li>Includes Pilot Pin</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "AC02",
+    "item": "ANNULAR CUTTER SET- VIPER - 2\" DEPTH 7 PIECE",
+    "image": "assets/img/items/AC02.jpeg",
+    "description": "<P>These annular cutters feature precision-ground flutes to provide efficient chip clearance, increased drilling productivity and decreased breakage. They are constructed of heat treated high-speed steel and include a pilot bit all in a molded carrying case.</P><P>They are engineered with a tapered inner wall for smooth, easy slug ejection. The center hole for pilot pin accurately aligns the cutter, allows for internal lubrication and removes the slug. Perfect drilling to close tolerances without runout; the result is a burr-free finished hole.</P><br><b>Specifications:</b><li>Sizes: 9/16\", 11/16\", 13/16\", 15/16\", 1\" & 1-1/16\"</li><li>2\" DOC (Depth of Cut)</li><li>Includes Pilot Pin</li>"
+  },
   {
     "class": "1",
     "category": "Viper Products",
@@ -11927,7 +11927,7 @@
     "image": "assets/img/items/NSD5PCB.JPG",
     "description": "<P>    Step drills are the most convenient way to drill multiple sized holes in thin sections of metal, plastic and wood using a single drill bit. Each bit does the work of many drill bit sizes and with a step bit there is no center punching or pilot hole drilling required.</P> <p> They feature tri-flat shanks for a sure grip and two flutes that automatically deburr as you drill. This set comes in a nice aluminum case with our Viper logo on the top.</P>"
   },
-    {
+  {
     "class": "16",
     "category": "Drill Bits/ Index Sets/ Extractor Tools",
     "item_no": "AC01",
@@ -27261,7 +27261,7 @@
     "item_no": "TQ01",
     "item": "TORQUE SCREWDRIVER W/ 20 BITS - 1/4\" DR.",
     "image": "assets/img/items/TQ01.bmp",
-    "description": "<P>This torque screwdriver features a torque meter window to clearly see the desired setting. It is adjustable from 10 to 50 inch lbs. in 5 inch lb. increments and has a lock torque setting for continuous use without resetting. The grip handle has an ergonomic design for user comfort.</P><P>The driver will fit any 1/4\" drive sockets or bits and includes 8 Philips, 4 Hex, 2 slotted and 6 Torx bits and comes in a convenient storage case.</p><br><b>Specifications:</b><li>10 to 50 In/lbs. in 5 in/lb increments</li><li>8 Philips Bits: 2 x#0, 2 x #1, 2 x #2, 2 x #3</li><li>2 Slotted Bits: 4mm & 6mm</li><li>6 Torx Bits: T10, T15, T20, T25, T30 & T40</li><li>4 Hex Bits: 3mm, 4mm, 5mm & 6mm</li><li>Includes Carrying Case and Bit Insert</li><a href=http://extranet.acetools.com/Catalog/TQ01_2.jpg>Click here for a larger image</a>"
+    "description": "<P>This torque screwdriver features a torque meter window to clearly see the desired setting. It is adjustable from 10 to 50 inch lbs. in 5 inch lb. increments and has a lock torque setting for continuous use without resetting. The grip handle has an ergonomic design for user comfort.</P><P>The driver will fit any 1/4\" drive sockets or bits and includes 8 Philips, 4 Hex, 2 slotted and 6 Torx bits and comes in a convenient storage case.</p><br><b>Specifications:</b><li>10 to 50 In/lbs. in 5 in/lb increments</li><li>8 Philips Bits: 2 x#0, 2 x #1, 2 x #2, 2 x #3</li><li>2 Slotted Bits: 4mm & 6mm</li><li>6 Torx Bits: T10, T15, T20, T25, T30 & T40</li><li>4 Hex Bits: 3mm, 4mm, 5mm & 6mm</li><li>Includes Carrying Case and Bit Insert</li>"
   },
   {
     "class": "40",
@@ -28877,7 +28877,7 @@
     "item_no": "368",
     "item": "BEARING SEPERATOR PULLER KIT",
     "image": "assets/img/items/368.JPG",
-    "description": "<P>          This bearing separator kit allows the user to quickly and efficiently dismount various machine parts attached to shafts. This kit includes a bearing separator and bolt, 4 main rods, a beam and a center bolt and is rated at 5 tons. Includes a rugged blow mold carrying case.</p><br><b>Specifications:</b></br><li>Bearing separator and bolt: 30mm-50mm w/ bolt: 3/8\" x L n120mm x 24T & 50mm-75mm w/ bolt 1/2\" x L 135mm x 20T</li><li>4 pc. main rods</li><li>1 pc. beam, center bolt</li><li><a href=https://www.youtube.com/watch?v=FA1x7IaclTM&feature=youtu.be>Click here to see a video on how to use a bearing seperator</a></li>"
+    "description": "<P>          This bearing separator kit allows the user to quickly and efficiently dismount various machine parts attached to shafts. This kit includes a bearing separator and bolt, 4 main rods, a beam and a center bolt and is rated at 5 tons. Includes a rugged blow mold carrying case.</p><br><b>Specifications:</b></br><li>Bearing separator and bolt: 30mm-50mm w/ bolt: 3/8\" x L n120mm x 24T & 50mm-75mm w/ bolt 1/2\" x L 135mm x 20T</li><li>4 pc. main rods</li><li>1 pc. beam, center bolt</li>"
   },
   {
     "class": "44",
@@ -35638,14 +35638,6 @@
     "item": "WILLIAMS - 1/2\" DR. FLEX HEAD RATCHET",
     "image": "assets/img/items/WS52EHFA.png",
     "description": "<P>The S-52EHFA 14-1/4\" Williams 1/2\" Drive Enclosed Flex Ratchet comes with the Snap-On Industrial Brands Limited Lifetime Warranty.<br><b>Specifications:</b></br><li>Enclosed head is sealed to prevent dust, dirt, and liquids from entering head, preserving internal lubrication.  Forged one-piece ratchet provide strength and safety for industrial applications.  Smooth comfort-grip handle permits all-day use without gloves 36 tooth gear with 10 degree of engagement allows engagement in tight working areas</li><li> Nickel/Chrome plating provides increase protection from rust and corrosion Chrome finish models feature mirror-like exterior that can be easily cleaned after each use.</li><li>Single Pawl ratchet design:</li><li> (1) Designed for tighter tolerances between pawl and gear which reduces metal fatigue and slippage under load.  (2) Does not require as many working parts, reducing possible breakage and parts to repair</li><li>Country of Origin : USA</li></P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/williams.bmp\"></CENTER>"
-  },
-  {
-    "class": "59",
-    "category": "Williams®",
-    "item_no": "WSS5",
-    "item": "SOCKET SET - WILLIAMS - 82 PC. PACKAGE",
-    "image": "assets/img/items/WSS5.jpeg",
-    "description": "<P>    All Williams&reg; sockets and wrenches are professional quality and made of high grade, chrome vanadium steel and polished to a super high gloss shine. The sockets feature Supertorque&reg; lobular openings for greater turning power without deforming the fastener.</P> <P>     The 1/4\", & 3/8\" drive sockets are 6 point, and the 1/2\" drive sockets are 12 point. Each kit is neatly organized in its own compact, heavy duty impact plastic case with the socket size in easy to read, raised numbering next to its storage section. This package contains five complete Williams&reg; socket sets from 1/4\" drive to 1/2\" drive in both SAE and Metric. </P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/williams.bmp\"></CENTER>"
   },
   {
     "class": "59",
