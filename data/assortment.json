@@ -50,6 +50,22 @@
   {
     "class": "1",
     "category": "Viper Products",
+    "item_no": "MS10T",
+    "item": "VIPER MITER-TABLE SAW 10\"",
+    "image": "assets/img/items/MS10T2.png",
+    "description": "<P>The Viper 14.5 Amp 10 in. combination Table Saw, and Miter Saw can handle any job thrown its way. It boasts a work light to improve the accuracy of the cut for precision and a 14.5 Amp motor that easily handles the toughest of materials. This Viper saw was designed to meet the demanding needs of professional carpenters and remodelers</P><br><b>Specifications</b><li>Adjustable miter and bevel detents with bypass allow for quick adjustments to the most common angles</li><li>14.5 Amp motor powers through even the most difficult materials</li><li>Positive stops at the most common angles:0&deg;, 15&deg;, 22.5&deg;, 30&deg; and 45&deg;, 50&deg; left and right (90&deg; cuts)</li><li>Bevel cut stops up to 45 to the left</li><li>3000 RPM for powerful performance</li><li>Powerful AC induction motor</li><li>No gear no noise</li><li>Large size table 410 x 286mm and 16.14\" x 11.25\"</li><li>1\" Arbor</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
+    "item_no": "MS12DB",
+    "item": "VIPER AC SLIDE COMPOUND MITER SAW 12\"",
+    "image": "assets/img/items/MS12DB.jpg",
+    "description": "<P>This New Viper sliding compound miter saw is designed to make smooth, accurate cuts in larger workpieces - up to 13.78 inches (350mm) wide. The 12\" blade on this sliding miter saw cuts thicker sections of wood with a maxiumum cutting depth of 4.25 inches (108mm).  This is a well-built tool produces the best cuts that are accurate and beautiful .  Perfect for custom work, the Viper has a great angle adjustment and runs clean and smooth.</P><P> Featuring Precise and Sturdy die-cast aluminum construction with an intergrated fold-away cutting depth limiter for grooving.  This Powerful 15-amp, 3,800 RPM tool features durable guards' precision machined castings, fences, a bevel system, and rugged stainless-steel detent plates that are designed to hold up to the rigorous demands of the job site</P><br><b>Specifications</b><li>94&deg; cutting angle range for bevel cuts with seven positive stops</li><li>110&deg; cutting angle range for miter cuts with ten positive stops</li><li>Individually adjustable stops for miter cuts</li><li>Soft Start</li><li>Motor Brake</li><li>Integrated fold away cutting depth limiter for grooving</li><li>TCT Saw Blade</li>Maximum Depth of cut 4.25 inches</li>The track arm provides for up to 350mm cutting width</li><li>Ergonmic control for both left-handed and right-handed people</li><li>Built in table side extenstion</li>"
+  },
+  {
+    "class": "1",
+    "category": "Viper Products",
     "item_no": "75-206AX-JA",
     "item": "TOOL CHEST COMBO- 44\" - BLACK WIDOW",
     "image": "assets/img/items/75-206AX-JA.bmp",
@@ -15191,30 +15207,30 @@
     "image": "assets/img/items/TE18.jpeg",
     "description": "<P>         These bits are used by machine shops and are also referred to as 'screw machine length bits'. They have the 135&deg; split tips and the short drill length provides increased rigidity during drilling.  They work great in both portable drills and drill presses.</P> <P>These bits are manufactured to all National Aerospace standards, which are the strictest standards in the industry. </P>"
   },
-    {
-      "class": "19",
-      "category": "Electric Tools",
-      "item_no": "19-SCY20-SA",
-      "item": "CORE DRILL - HANDHELD - VIPER",
-      "image": "assets/img/items/19-SCY20-SA.jpg",
-      "description": "<P>Viper Core Drill is the only option allowing for both dry and wet cutting.  With dust port and water connection gives the versatile ability along with power</P><br><b>Specifications</b><li>Application: Concrete, Block, Masonry</li><li>Weight: 20lbs</li><li>110v</li><li>Max Drilling Diameter</li>"
-    },
-    {
-      "class": "19",
-      "category": "Electric Tools",
-      "item_no": "19-SCY25-SA",
-      "item": "CORE DRILL RIG W/ STAND- VIPER",
-      "image": "assets/img/items/19-SCY25-SA.jpg",
-      "description": "<P>The heavy-duty core drill system is the contractor’s choice for the more demanding drilling applications. The precision ground column provides strength and rigidity for high horsepower drill motors. The carriage and base are made of high-strength aluminum designed to withstand excessive wear and to ease job site handling.</P><br><b>Specifications</b><li>Drill Type: Diamond Core Drill</li><li>Weight: 62 lbs</li><li>Application: Construction/concrete</li><li>Frequency: 50-60Hz</li><li>Max. Drilling Diameter: 10”</li><li>No-Load Speed: 100-590</li><li>Rated Input Power: 4350W</li><li>Rated Voltage: 110V</li><li>Feature: Safety Clutch and Overload Protection Water Proof Switch</li>"
-    },
-    {
-      "class": "19",
-      "category": "Electric Tools",
-      "item_no": "19-SCY50-SA",
-      "item": "MAGNETIC DRILL - 2\" CAPACITY - VIPER",
-      "image": "assets/img/items/19-SCY50-SA.jpg",
-      "description": "<P><b>Specifications</b></P><li>1550-Watt Powerful Motor</li><li>Integrated Gearbox</li><li>Drilling Capacity 3/8\" to 2\"</li><li>Maximum Magnetic Force: 3,500 lbs.</li><li>Weight 27 lbs</li><li>110v</li>"
-    },
+  {
+    "class": "19",
+    "category": "Electric Tools",
+    "item_no": "19-SCY20-SA",
+    "item": "CORE DRILL - HANDHELD - VIPER",
+    "image": "assets/img/items/19-SCY20-SA.jpg",
+    "description": "<P>Viper Core Drill is the only option allowing for both dry and wet cutting.  With dust port and water connection gives the versatile ability along with power</P><br><b>Specifications</b><li>Application: Concrete, Block, Masonry</li><li>Weight: 20lbs</li><li>110v</li><li>Max Drilling Diameter</li>"
+  },
+  {
+    "class": "19",
+    "category": "Electric Tools",
+    "item_no": "19-SCY25-SA",
+    "item": "CORE DRILL RIG W/ STAND- VIPER",
+    "image": "assets/img/items/19-SCY25-SA.jpg",
+    "description": "<P>The heavy-duty core drill system is the contractor’s choice for the more demanding drilling applications. The precision ground column provides strength and rigidity for high horsepower drill motors. The carriage and base are made of high-strength aluminum designed to withstand excessive wear and to ease job site handling.</P><br><b>Specifications</b><li>Drill Type: Diamond Core Drill</li><li>Weight: 62 lbs</li><li>Application: Construction/concrete</li><li>Frequency: 50-60Hz</li><li>Max. Drilling Diameter: 10”</li><li>No-Load Speed: 100-590</li><li>Rated Input Power: 4350W</li><li>Rated Voltage: 110V</li><li>Feature: Safety Clutch and Overload Protection Water Proof Switch</li>"
+  },
+  {
+    "class": "19",
+    "category": "Electric Tools",
+    "item_no": "19-SCY50-SA",
+    "item": "MAGNETIC DRILL - 2\" CAPACITY - VIPER",
+    "image": "assets/img/items/19-SCY50-SA.jpg",
+    "description": "<P><b>Specifications</b></P><li>1550-Watt Powerful Motor</li><li>Integrated Gearbox</li><li>Drilling Capacity 3/8\" to 2\"</li><li>Maximum Magnetic Force: 3,500 lbs.</li><li>Weight 27 lbs</li><li>110v</li>"
+  },
   {
     "class": "19",
     "category": "Electric Tools",
@@ -15726,6 +15742,22 @@
     "item": "CUTOFF SAW - 14\" METAL DRY CUT MORSE",
     "image": "assets/img/items/MK14MD.JPG",
     "description": "<P>      The Morse Metal Devil&reg; metal cutting circular saw offers a safer, cleaner way to cut metal. The special motor maintains torque at optimum RPM for cutting through metal smoothly and efficiently.</P> <P>      This 14\" saw features a retractable blade guard and an enhanced blade alignment guide that greatly reduces waste from miscuts. It has comfortable grips to reduce user fatigue and includes safety goggles, ear plugs and a steel cutting 14\" blade.</P><CENTER><IMG SRC=\"http://extranet.acetools.com/Catalog/morselogo.bmp\"></CENTER>"
+  },
+  {
+    "class": "19",
+    "category": "Electric Tools",
+    "item_no": "MS10T",
+    "item": "VIPER MITER-TABLE SAW 10\"",
+    "image": "assets/img/items/MS10T2.png",
+    "description": "<P>The Viper 14.5 Amp 10 in. combination Table Saw, and Miter Saw can handle any job thrown its way. It boasts a work light to improve the accuracy of the cut for precision and a 14.5 Amp motor that easily handles the toughest of materials. This Viper saw was designed to meet the demanding needs of professional carpenters and remodelers</P><br><b>Specifications</b><li>Adjustable miter and bevel detents with bypass allow for quick adjustments to the most common angles</li><li>14.5 Amp motor powers through even the most difficult materials</li><li>Positive stops at the most common angles:0&deg;, 15&deg;, 22.5&deg;, 30&deg; and 45&deg;, 50&deg; left and right (90&deg; cuts)</li><li>Bevel cut stops up to 45 to the left</li><li>3000 RPM for powerful performance</li><li>Powerful AC induction motor</li><li>No gear no noise</li><li>Large size table 410 x 286mm and 16.14\" x 11.25\"</li><li>1\" Arbor</li>"
+  },
+  {
+    "class": "19",
+    "category": "Electric Tools",
+    "item_no": "MS12DB",
+    "item": "VIPER AC SLIDE COMPOUND MITER SAW 12\"",
+    "image": "assets/img/items/MS12DB.jpg",
+    "description": "<P>This New Viper sliding compound miter saw is designed to make smooth, accurate cuts in larger workpieces - up to 13.78 inches (350mm) wide. The 12\" blade on this sliding miter saw cuts thicker sections of wood with a maxiumum cutting depth of 4.25 inches (108mm).  This is a well-built tool produces the best cuts that are accurate and beautiful .  Perfect for custom work, the Viper has a great angle adjustment and runs clean and smooth.</P><P> Featuring Precise and Sturdy die-cast aluminum construction with an intergrated fold-away cutting depth limiter for grooving.  This Powerful 15-amp, 3,800 RPM tool features durable guards' precision machined castings, fences, a bevel system, and rugged stainless-steel detent plates that are designed to hold up to the rigorous demands of the job site</P><br><b>Specifications</b><li>94&deg; cutting angle range for bevel cuts with seven positive stops</li><li>110&deg; cutting angle range for miter cuts with ten positive stops</li><li>Individually adjustable stops for miter cuts</li><li>Soft Start</li><li>Motor Brake</li><li>Integrated fold away cutting depth limiter for grooving</li><li>TCT Saw Blade</li>Maximum Depth of cut 4.25 inches</li>The track arm provides for up to 350mm cutting width</li><li>Ergonmic control for both left-handed and right-handed people</li><li>Built in table side extenstion</li>"
   },
   {
     "class": "19",
