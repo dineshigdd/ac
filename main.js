@@ -34,9 +34,9 @@ function createWindow() {
     //Open devtools
     // win.webContents.openDevTools();
 
-    // win.on('closed', () => {
-    //     win = null;
-    // });
+    win.on('closed', () => {
+        win = null;
+    });
 }
 
 // Run create window function
@@ -49,3 +49,8 @@ app.on('window-all-closed', () => {
         app.quit();
     }
 });
+
+app.on('activate',()=>{
+    if(win === null)
+       createWindow();
+})

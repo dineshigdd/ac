@@ -6,9 +6,8 @@
   "scripts": {
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "package-mac": "electron-packager ./ Catalog --all --out ~/Desktop/Catalog --version 2.0.1",
-    "package-win": "electron-packager . ace-catalog --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Ace Industrial Tool Catalog\"",
-    "dist": "build"
+    "package-mac":"electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release/mac",
+    "package-win": "electron-packager . ace-catalog --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release/windows --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Ace Industrial Tool Catalog\""
   },
   "author": "Peter Hoang",
   "license": "ISC",
@@ -19,13 +18,8 @@
   "devDependencies": {
     "electron": "^2.0.1",
     "electron-builder": "^20.26.1",
-    "electron-packager": "^12.2.0"
-  },
-  "build": {
-    "appId": "com.ace.catalogue",
-    "win": {
-      "target": "nsis",
-      "icon": "build/icon.ico"
-    }
+    "electron-packager": "^12.2.0",
+    "electron-rebuild": "^1.8.8"
   }
+
 }
