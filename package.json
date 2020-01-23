@@ -6,8 +6,9 @@
   "scripts": {
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "package-mac":"electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release/mac",
-    "package-win": "electron-packager . ace-catalog --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release/windows --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Ace Industrial Tool Catalog\""
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release/mac",
+    "package-win": "electron-packager . --overwrite --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release/windows",
+    "package-linux": "electron-packager . --overwrite --platform=linux --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release/linux"
   },
   "author": "Peter Hoang",
   "license": "ISC",
@@ -21,5 +22,4 @@
     "electron-packager": "^12.2.0",
     "electron-rebuild": "^1.8.8"
   }
-
 }
